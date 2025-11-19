@@ -1,4 +1,4 @@
-# Gemini 3.0 Pro on EvoLink (via gemini3api.com)
+# Gemini 3.0 Pro API
 
 > One unified entry to Google’s latest Gemini 3.0 Pro, with stronger reasoning, richer multimodal understanding, and production‑grade reliability – powered by EvoLink.
 
